@@ -2,14 +2,9 @@ const firstName = document.querySelector('.first-name')
 const lastName = document.querySelector('.last-name')
 const emailInput = document.querySelector('.email')
 const password = document.querySelector('.password')
-const erroIcon = document.querySelectorAll('.error-icon')
-const smallMsg = document.querySelectorAll('small')
 const btn = document.querySelector('button')
 const form = document.querySelector('form')
 
-firstName.addEventListener('click', () => {
-    // console.log('Input Clicked')
-})
 
 form.addEventListener('submit', (e) => {
     e.preventDefault()
