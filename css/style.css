@@ -73,9 +73,7 @@ h3 {
    background-color: #fff;
    border-radius: 5px;
    box-shadow: 0 2px 5px rgb(0, 0, 0.3);
-   /* width: 500px; */
    max-width: 100%;
-   /* overflow: hidden; */
 }
 
 form {
@@ -152,7 +150,6 @@ form button {
     width: 100%;
     border: none;
     border-radius: 5px;
-    /* font-size: 15px; */
     background-color: #37cc8a;
     cursor: pointer;
 }
